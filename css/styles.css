@@ -1,0 +1,158 @@
+
+body {
+    background-color: aqua;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.navigation {
+    background-color: black;
+}
+
+.intro {
+    color: black;
+    text-align: center;
+}
+
+.topright {
+    position: absolute;
+    top: 40px;
+    right: 16px;
+    font-size: 18px;
+    vertical-align: middle;
+}
+
+.padding {
+    padding: 4px;
+}
+
+.bottom-padding {
+    padding-bottom: 20px;
+}
+
+.margin-toper {
+    margin-top: 1rem;
+}
+ 
+.center {
+    align-items: center;
+    text-align: center;
+}
+
+.feature-box {
+    padding: 8%;
+    text-align: center;
+}
+
+.icon-name {
+    font-family: "Montserrat-Dark";
+}
+
+.image-size {
+    width: 200px;
+    height: 200px;
+}
+
+.margin-carousel {
+    margin-bottom: 4.5rem;
+    margin-top: 2rem;
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+
+.button-align {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    padding-top: 20px;
+}
+
+.white-section {
+    color: black;
+    background-color: floralwhite;
+}
+
+.modal .modal-body {
+    background: floralwhite; 
+}
+.modal .modal-header {
+        background: aqua; 
+}
+.modal .modal-header .modal-title {
+        color: floralwhite; 
+}
+.modal .modal-header .close {
+    background: floralwhite;
+}
+
+
+/* for the footer */
+.footer-item {
+    margin: 20px, 20px, 20px, 20px;
+}
+
+footer {
+    padding-top: 10px;
+    padding-bottom: 40px;
+	position: fixed;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	background-color: #E60965;
+}
+
+.location-items {
+    text-align: center;
+    position: relative;
+}
+
+
+
+
+/* code for the search box */
+
+.height {
+    height: 30vh
+}
+
+.form {
+    position: relative
+}
+
+.form .fa-search {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: #9ca3af
+}
+
+.form span {
+    position: absolute;
+    right: 17px;
+    top: 13px;
+    padding: 2px;
+    border-left: 1px solid #d1d5db
+}
+
+.left-pan {
+    padding-left: 7px
+}
+
+.left-pan i {
+    padding-left: 10px
+}
+
+.form-input {
+    height: 55px;
+    text-indent: 33px;
+    border-radius: 10px
+}
+
+.form-input:focus {
+    box-shadow: none;
+    border: none
+}
