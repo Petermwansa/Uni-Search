@@ -1,0 +1,22 @@
+{
+  "name": "unisearch",
+  "version": "1.0.0",
+  "description": "The first initialisation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Petermwansa/Uni-Search.git"
+  },
+  "author": "Peter Mwansa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Petermwansa/Uni-Search/issues"
+  },
+  "homepage": "https://github.com/Petermwansa/Uni-Search#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
